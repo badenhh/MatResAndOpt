@@ -1,0 +1,11 @@
+0,1,2,3,4,5
+1,2,500,25,NG,Melt Frz
+2,10,150,25,SG,Steady State
+3,10,150,25,NSG,Laser flash
+4,50,500,25,GF,Custom
+5,50,500,25,FI,Hot wire
+6,20,75,25,EG,Hot disc
+7,30,75,25,GNP,Unknown
+8,50000,5000,25,GR,na
+9,25000,3000,25,CNT,na
+10,1,0.1,0.1,A,na

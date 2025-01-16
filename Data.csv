@@ -1,0 +1,228 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+2013,Calvet,NG,1,,40,13,1.88,,,Meas,,,,,Melt Frz,1
+2017,Haillot,NG,1,1.2,,20,0.2,,,Meas,6,,,,Steady State,2
+2016,Yang,NG,1,1.3,,20,0.5,,,Meas,2.6,,,,Laser flash,3
+2014,Lachheb,SG,2,0.91,,20,0.23,,,Meas,4,,,,Custom,4
+,,SG,2,0.43,,20,0.23,,,Meas,1.9,,,Waste,Custom,4
+2015,Fethi,SG,2,0.87,,20,0.21,,23,Meas,4.1,,,Waste,Hot wire,5
+2016,Lachheb,SG,2,1.86,,20,0.51,,,Meas,3.6,,,Waste,Hot wire,5
+2014,Li,NG,1,3.2,,13,0.26,,,Meas,12.3,,,err on kc,Hot disc,6
+2016,Dannemand,NSG,3,,60,4.4,,,,Meas,,Y,,,Custom,4
+2006,Zhang,NSG,3,0.48,,20,0.15,,,Meas,3.2,,,,Custom,4
+2015,Djefel,NSG,3,0.345,,7,0.2346,,,Meas,1.5,,,,Hot disc,6
+2013,Li,NSG,3,0.56,,2.7,0.28,,,Meas,2,,,,Custom,4
+2017,Xu,NSG,3,3.22,,10,0.58,,,Meas,5.6,,,,Laser flash,3
+2011,Mei,NSG,3,0.76,,5,0.48,,,Meas,1.6,,,,Hot wire,5
+2015,Memon,NSG,3,0.58,,15,0.22,,,Meas,2.6,,,,Steady State,2
+2009,Li,NG,1,0.32,,9,0.27,,,Meas,1.2,,,,Custom,4
+2006,Harris,GF,4,104,,34,0.4,,135,Meas,260,,,Poco L,Steady State,2
+,,GF,4,177,,62,0.4,,245,Meas,442.5,,,Poco H,Steady State,2
+2006,fedden,GF,4,104,,48,0.4,,135,Meas,260,,,Poco L,Melt Frz,1
+,,GF,4,116,,45,0.4,,180,Meas,290,,,MER H,Melt Frz,1
+,,GF,4,30,,21,0.4,,50,Meas,75,,,MER L,Melt Frz,1
+2016,singh,GF,4,270,,52,0.46,,245,Meas,587,,,Poco H,Laser flash,3
+,,GF,4,38,,15,0.46,,70,Meas,82.6,,,GR L,Laser flash,3
+2013,sedeh,GF,4,30,,34,0.13,,150,Meas,230.8,,,Poco L,Laser flash,3
+2010,Zhong,GF,4,132,,53,0.21,,140,Meas,628.6,,,,Laser flash,3
+,,GF,4,48,,26,0.21,,140,Meas,228.6,,,,Laser flash,3
+2014,ji,GF,4,3.5,,3,0.8,,500,Meas,4.375,,,,Custom,4
+,,GF,4,2,,2,0.8,,,Meas,2.5,,,,Custom,4
+2013,xiao,GF,4,1.2,,15,0.35,,,,3.4,,,0.89 or 20.2?,Unknown,7
+2002,Fukai,F,5,0.81,,3,0.27,O,200,Meas,3,Y,,,Custom,4
+2000,Fukai,F,5,1.62,,5,0.27,R,200,Meas,6,,,,Custom,4
+,,F,5,5.4,,5,0.27,O,200,Meas,20,,,,Custom,4
+2003,Fukai,F,5,,70,3,0.27,O,200,Meas,,Y,,,Custom,4
+2008,Nakaso,F,5,0.29,,2.5,0.21,O,200,Sim,1.36,Y,,,Custom,4
+2006,Frusteri,F,5,2.1,,8,0.42,R,188,Meas,5,,,,Melt Frz,1
+2015,Nomura,F,5,2,,23,0.73,R,900,Meas,2.7,,,,Laser flash,3
+,,F,5,8,,23,0.73,R,900,Meas,11,,,,Laser flash,3
+2014,zhang,F,5,1,,20,0.26,,550,Meas,3.8,,,,Hot disc,6
+2017,Huang,F,5,0.47,,5,0.21,,,Meas,2.2,,,,Hot wire,5
+2011,Sanusi,F,5,,64,10,0.2,,,Meas,,Y,,,Melt Frz,1
+2012,Chintakrinda,F,5,,60,11,0.25,,,Meas,,Y,,,Melt Frz,1
+2015,Warzoha,F,5,0.36,,24,0.2,,25,Meas,1.8,,,,Hot disc,6
+2013,Fan,F,5,0.31,,5,0.26,,,Meas,1.2,,,,Hot wire,5
+2014,Cai,F,5,,30,5,LA,,,Meas,,,,,Melt Frz,1
+2002,Cabeza,EG,6,25,,10,1.5,R,,Meas,,,,,Melt Frz,1
+2001,Py,EG,6,70,,35,0.24,R,,Meas,291.7,,1,,Steady State,2
+,,EG,6,4,,5,0.24,R,,Meas,16.7,,1,,Steady State,2
+2017,Haillot,EG,6,20,,25,0.2,,,Meas,100,,1,,Steady State,2
+2011,Haillot,EG,6,20,,15,0.2,,20,Meas,100,,1,,Steady State,2
+,,EG,6,40,,35,0.2,,50,Meas,200,,1,,Steady State,2
+2013,Calvet,EG,6,,55,10,1.88,,,Meas,,,,,Melt Frz,1
+2004,Sari,EG,6,0.25,,3,0.21,,,Meas,1.2,,,,Hot wire,5
+2007,Sari,EG,6,0.4,,2,0.22,,,Meas,1.8,,,,Hot wire,5
+,,EG,6,0.82,,10,0.22,,,Meas,3.7,,,,Hot wire,5
+2008,Sari,EG,6,,52,20,0.17,,,Meas,,,,a,Melt Frz,1
+2008,Karaipekli,EG,6,0.076,,10,0.048,,,Meas,1.6,,,,Hot wire,5
+2008,Sari,EG,6,0.143,,10,0.087,,,Meas,1.6,,,b,Hot wire,5
+2009,Karaipekli,EG,6,0.22,,2,0.12,,4.3,Meas,1.8,,,,Hot wire,5
+2009,Sari,EG,6,0.13,,10,0.07,,,Meas,1.9,,,b,Hot wire,5
+2009,Sari,EG,6,0.24,,5,0.17,,,Meas,1.4,,,a,Hot wire,5
+,,EG,6,0.6,,20,0.17,,,Meas,3.5,,,,Hot wire,5
+2010,Karaipekli,EG,6,0.45,,10,0.2,,4.3,Meas,2.3,,,,Hot wire,5
+2010,Sari,EG,6,0.25,,5,0.2,,4.3,Meas,1.3,,,,Hot wire,5
+2011,Karaman,EG,6,0.67,,10,0.32,,4.3,Meas,2.1,,,,Hot wire,5
+2011,Sari,EG,6,0.235,,5,0.17,,4.3,Meas,1.4,,,,Hot wire,5
+2012,Sari,EG,6,0.37,,10,0.2,,4.3,Meas,1.9,,,a,Hot wire,5
+,,EG,6,0.33,,10,0.16,,4.3,Meas,2.1,,,,Hot wire,5
+2012,Sari,EG,6,0.24,,20,0.16,,4.3,Meas,1.5,,,b,Hot wire,5
+2012,Sari,EG,6,0.22,,5,0.16,,4.3,Meas,1.4,,,c,Hot wire,5
+2015,Sari,EG,6,0.26,,5,0.18,,4.3,Meas,1.4,,,,Hot wire,5
+2016,Sari,EG,6,0.68,,5,0.39,,5.3,Meas,1.7,,,,Hot wire,5
+2006,Zhang,EG,6,,56,14,0.24,,,Meas,,1,,Not press,Melt Frz,1
+2012,Zhang,EG,6,,68,,0.24,,,Meas,,1,,Not press,Melt Frz,1
+2014,Huang,EG,6,5,,10,1.75,,,Meas,2.9,1,,Not press,Hot disc,6
+,,EG,6,13,,30,1.75,,,Meas,7.4,1,,Not press,Hot disc,6
+2014,Wang,EG,6,5.35,,15,0.37,,,Meas,14.5,1,1,Pressed,Hot disc,6
+2015,Tian,EG,6,2.1,,5,1.17,,,Meas,1.8,1,,Not press,Hot disc,6
+2015,Zhang,EG,6,6.8,,20,0.67,,,Meas,10.1,1,1,Pressed,Hot disc,6
+2016,Chen,EG,6,9.8,,20,0.24,,,Meas,40.8,1,1,Pressed,Hot disc,6
+2016,Tian,EG,6,5,,20,0.7,,,Meas,7.1,1,,Not press,Hot disc,6
+2016,Xu,EG,6,19,,36,0.6,,,Meas,31.7,1,1,Pressed,Hot disc,6
+2016,Zhang,EG,6,5.2,,10,0.34,,,Meas,15.3,1,1,Pressed,Hot disc,6
+2017,Xu,EG,6,31.5,,25,1.6,,,Meas,19.7,1,1,Pressed,Hot disc,6
+2017,Liu,EG,6,4.9,,15,0.41,,,Meas,12,1,,Not press,Hot disc,6
+2016,Wang,EG,6,3.3,,30,0.8,,,Meas,4.1,1,1,Pressed,Hot disc,6
+2017,Wang,EG,6,8.9,,24,0.8,,,Meas,11.1,1,1,Pressed,Hot disc,6
+2010,Xia,EG,6,3.8,,10,0.31,,23,Meas,12.3,,,Not press,Hot disc,6
+2011,Xia,EG,6,2.6,,10,0.43,,,Meas,6,,,Not press,Hot wire,5
+2013,Xiao,EG,6,0.21,,10,0.16,,,Meas,1.3,,,Not press,Hot wire,5
+,,EG,6,0.3,,10,0.24,,,Meas,1.3,,,Not press,Hot wire,5
+2014,Zhao,EG,6,51,,15,0.46,,,Meas,110.9,,1,Pressed,Laser Flash,3
+2015,Tang,EG,6,3.15,,17,0.14,,3.4,Meas,22.5,,,Not press,Hot disc,6
+2015,Xiao,EG,6,7.2,,20,0.9,,,Meas,8,,1,Pressed,Steady State,2
+2016,Wu,EG,6,23.3,,25,0.18,,,Meas,129.4,,1,,Hot disc,6
+2012,Zhong,EG,6,344,,10,59,,,Meas,5.8,,,,Laser Flash,3
+2001,Xiao,EG,6,,71,3,,R,,Meas,,,,,Melt Frz,1
+2010,Zhong,EG,6,66,,26,0.35,,,Meas,188.6,,1,,Steady State,2
+2011,Zhou,EG,6,,50,9,0.24,,,Meas,,,,,Melt Frz,1
+2012,Gilart,EG,6,4.95,,50,0.38,,,Meas,13,,,,Unknown,7
+2006,Mills,EG,6,25,,27,0.2,,,Meas,125,,1,,Steady State,2
+2012,Mhike,EG,6,1.2,,10,0.38,,,Meas,3.2,,,,Hot disc,6
+2015,AlMaadeed,EG,6,0.821,,15,0.267,,,Meas,3.1,,,,Custom,4
+2015,Jin,EG,6,,40,5,,,,Meas,,,,,Melt Frz,1
+2015,Khedache,EG,6,0.52,,10,0.17,,,Meas,3.1,,,,Hot disc,6
+2016,Mallow,EG,6,21,,22,0.28,,,Meas,75,,1,,Hot disc,6
+2016,Sobolciak,EG,6,1.33,,15,0.25,,,Meas,5.3,,,1,Custom,4
+2016,Sobolciak,EG,6,1,,15,0.27,,,Meas,3.7,,,2,Custom,4
+2017,Bahraseman,EG,6,,40,50,0.25,,,Meas,,,,,Melt Frz,1
+2017,Cheng,EG,6,0.76,,20,0.39,,,Meas,1.9,,,,Laser Flash,3
+2010,Fang,EG,6,7,,50,0.24,,,Meas,29.2,,,,Laser Flash,3
+2012,Chen,EG,6,0.157,,1,0.15,,,Meas,1.05,,,,Hot wire,5
+2013,Zhang,EG,6,1.67,,10,0.21,,,Meas,7.95,,,,Hot disc,6
+2014,Yang,EG,6,2.51,,7,0.25,,,Meas,10.04,,,,Hot disc,6
+2014,Zhang,EG,6,0.86,,2,0.44,,,Meas,1.95,,,,Hot disc,6
+2014,Zhang,EG,6,2.51,,7,0.26,,,Meas,9.65,,,,Hot disc,6
+2015,Tang,EG,6,0.292,,5,0.19,,,Meas,1.54,,,,Laser Flash,3
+2016, Jebasingh,EG,6,0.18,,10,0.149,,,Meas,1.21,,,,Hot wire,5
+2016,Wen,EG,6,0.5,,10,0.28,,,Meas,1.79,,,,Laser Flash,3
+2017,Huang,EG,6,1.66,,5,0.34,,,Meas,4.88,,,,Hot wire,5
+2017,Wen,EG,6,0.253,,5,0.135,,,Meas,1.87,,,,Laser Flash,3
+2009,Li,EG,6,0.8,,10,0.21,,,Meas,3.81,,,,Steady State,2
+2013,Wang,EG,6,37.6,,29,0.43,,,Meas,87.44,,1,,Custom,4
+2014,Zeng,EG,6,2.76,,7,0.5,,,Meas,5.52,,,,Steady State,2
+2015,Tabassum,EG,6,3.6,,15,0.8,,,Meas,4.5,,,,Hot wire,5
+2016,Lv,EG,6,6.11,,10,0.3,,,Meas,20.37,,,,Hot disc,6
+2017,Gao,EG,6,1.147,,4,0.326,,,Meas,3.52,,,,Hot disc,6
+2006,Bauer,EG,6,30,,30,1,,,Meas,30,,,,Laser Flash,3
+2010,Acem,EG,6,20,,20,1,,,Meas,20,,,,Hot disc,6
+2011,Wu,EG,6,,50,6,1,,,Meas,,,,,Melt Frz,1
+2011,Zhao,EG,6,,63,3,0.4,,,Meas,,,,,Melt Frz,1
+2014,Duan,EG,6,8.8,,50,0.6,,,Meas,14.67,,,,Hot disc,6
+2014,Xiao,EG,6,4.9,,2,2.27,,,Meas,2.16,,,,Laser Flash,3
+2014,Zong,EG,6,5.59,,19,0.93,,,Meas,6.01,,,,Hot disc,6
+,,EG,6,6.61,,19,0.84,,,Meas,7.87,,,,Hot disc,6
+,,EG,6,4.71,,22,0.8,,,Meas,5.89,,,,Hot disc,6
+2015,Wu,EG,6,3.64,,13,0.85,,,Meas,4.28,,,,Laser Flash,3
+2017,Zhang,EG,6,2.66,,1,1.67,,,Meas,1.59,,,,Laser Flash,3
+2009,kim,GNP,7,0.85,,7,0.26,,,Meas,3.27,,,,Steady State,2
+2011,huang,GNP,7,0.46,,2,0.27,,,Meas,1.7,,,,Laser Flash,3
+2011,xiang,GNP,7,2.4,,13,0.3,,,Meas,8,,,,Steady State,2
+2012,wang,GNP,7,1.2,,5,0.23,,,Meas,5.22,,,,Hot disc,6
+2012,jeon,GNP,7,0.6,,5,0.37,,,Meas,1.62,,,,Hot disc,6
+,,GNP,7,1,,5,0.5,,,Meas,2,,,,Hot disc,6
+2013,Fan,GNP,7,0.7,,5,0.27,,,Meas,2.59,,,,Hot wire,5
+2013,Chen,GNP,7,4.47,,5,0.33,,,Meas,13.55,,,,Laser Flash,3
+2013,Shi,GNP,7,2.7,,10,0.25,,,Meas,10.8,,,,Hot disc,6
+2014,kim,GNP,7,1.37,,50,0.39,,,Meas,3.51,,,a,Hot disc,6
+2014,kim,GNP,7,1.36,,44,0.26,,,Meas,5.23,,,b,Hot disc,6
+2015,Fang,GNP,7,1.57,,5,0.39,,,Meas,4.03,,,,Hot disc,6
+2017,Liu,GNP,7,0.41,,2,0.3,,,Meas,1.37,,,,Steady State,2
+2017,Mhike,GNP,7,1.69,,10,0.25,,,Meas,6.76,,,,Hot wire,5
+2014,Zeng,GNP,7,1.08,,8,0.32,,,Meas,3.38,,,,Steady State,2
+2015,Harish,GNP,7,0.489,,3,0.215,,,Meas,2.27,,,,Hot wire,5
+2016,Tang,GNP,7,0.45,,12,0.2,,,Meas,2.25,,,a,Hot wire,5
+2016,Tang,GNP,7,0.82,,4,0.33,,,Meas,2.48,,,b,Hot wire,5
+2015,Fan,GNP,7,0.68,,3,0.26,,,Meas,2.62,,,b,Hot wire,5
+2016,Pielichowska,GNP,7,28,,4,17,,,Meas,1.65,,,,Steady State,2
+2016,Fan,GNP,7,0.46,,1,0.3,,,Meas,1.53,,,,Hot wire,5
+2014,Yuan,GNP,7,0.67,,5,0.154,,,Meas,4.35,,,,Hot disc,6
+2015,Kang,GNP,7,0.4936,,5,0.318,,,Meas,1.55,,,,Hot disc,6
+2012,Yuan,GNP,7,0.767,,15,0.405,,,Meas,1.89,,,,Hot disc,6
+2017,Haillot,GNP,7,11,,20,0.2,,,Meas,55,,1,Compr,Steady State,2
+2013,Mehrali,GR,8,2.75,,22,0.29,,,Meas,9.48,,3,,Hot wire,5
+,,GR,8,2.11,,8,0.29,,,Meas,7.28,,3,,Hot wire,5
+2013,Fang,GR,8,1.1,,5,0.4,,,Meas,2.75,,3,,Hot disc,6
+,,GR,8,2.1,,10,0.4,,,Meas,5.25,,3,,Hot disc,6
+2014,Fan,GR,8,0.32,,3,0.16,,,Meas,2,,3,,Hot disc,6
+2015,Silakhori,GR,8,0.43,,1.6,0.32,,,Meas,1.34,,3,,Hot disc,6
+2016,Sathishkumar,GR,8,3.2,,1.2,2.05,,,Meas,1.56,,3,,Hot wire,5
+2016,Yuan,GR,8,0.98,,8,0.26,,,Meas,3.77,,3,,Hot disc,6
+2017,Ramakrishnan,GR,8,0.52,,1,0.35,,,Meas,1.49,,3,,Hot disc,6
+2017,Zhang,GR,8,2.225,,1,1.674,,,Meas,1.33,,3,,Laser flash,3
+2013,Mehrali,GR,8,1.24,,59,0.21,,,Meas,5.9,,4,a,Hot wire,5
+2013,Mehrali,GR,8,1.32,,55,0.287,,,Meas,4.6,,4,b,Hot wire,5
+2015,Chen,GR,8,0.1924,,4,0.1157,,,Meas,1.66,,4,,Hot disc,6
+2015,Qi,GR,8,1.72,,2,1.61,,,Meas,1.07,,4,,Hot disc,6
+2016,Yang ,GR,8,1.8,,73,1.42,,,Meas,1.27,,4,,Laser flash,3
+2014,Xin,GR,8,0.55,,10,0.22,,,Meas,2.5,,5,,Laser flash,3
+,,GR,8,3.55,,10,0.25,,,Meas,14.2,,5,,Laser flash,3
+2014,Mehrali,GR,8,1.73,,5,0.28,,,Meas,6.18,,5,,Laser flash,3
+2016,Dao,GR,8,0.352,,5,0.205,,,Meas,1.72,,5,,Laser flash,3
+2014,Li,GR,8,0.54,,5,0.26,,,Meas,2.08,,1,,Hot disc,6
+2014,Warzoha,GR,8,7.2,,41,0.27,,,Meas,26.67,,1,,Hot disc,6
+2015,Tao,GR,8,0.45,,2.5,0.35,,,Meas,1.29,,1,,Laser flash,3
+2016,Wu,GR,8,0.38,,3,0.25,,,Meas,1.52,,1,,Hot disc,6
+2016,Pielichowska,GR,8,22,,4,18,,,Meas,1.22,,1,,Steady State,2
+2017,Liu,GR,8,0.46,,2,0.29,,,Meas,1.59,,1,,Steady State,2
+2014,Goli,GR,8,15,,1,0.25,,,Meas,60,,1,,Hot disc,6
+,,GR,8,45,,20,0.25,,,Meas,180,,1,,Hot disc,6
+2015,Liang,GR,8,1.9,,41,0.161,,,Meas,11.8,,2,,Laser flash,3
+2013,Zhou,GR,8,8.28,,,1.84,,,Meas,4.5,,2,,Unknown,7
+2014,Zhou,GR,8,0.74,,,0.42,,,Meas,1.76,,2,,Unknown,7
+2013,Zhong,GR,8,2.635,,41,0.184,,,Meas,14.32,,2,,Laser flash,3
+2016,Zhang,GR,8,0.62,,2,0.309,,,Meas,2.01,,2,,Custom,4
+2016,Yang ,GR,8,1.35,,5.3,0.24,,,Meas,5.63,,2,,Laser flash,3
+2016,Yang ,GR,8,1.43,,2.3,0.31,,,Meas,4.61,,2,,Hot disc,6
+2014,Ye,GR,8,0.248,,3,0.207,,,Meas,1.2,,2,,Hot wire,5
+2012,Gilart,CNT,9,0.58,,25,0.38,,,Meas,1.53,,,MWCNT,Unknown,7
+2013,Fan,CNT,9,0.324,,5,0.28,,,Meas,1.16,,,MWCNT,Hot wire,5
+2014,Xu,CNT,9,1.7,,0.26,1.2,,,Meas,1.42,,,MWCNT,Laser flash,3
+2016,Wu,CNT,9,0.3,,3,0.25,,,Meas,1.2,,,MWCNT,Hot disc,6
+2017,Karaipekli,CNT,9,0.32,,1,0.15,,,Meas,2.13,,,MWCNT,Hot wire,5
+2017,Li,CNT,9,0.301,,1,0.225,,,Meas,1.34,,,MWCNT,Hot disc,6
+2017,Xu,CNT,9,0.37,,6,0.265,,,Meas,1.4,,,MWCNT,Hot wire,5
+2017,Zhang,CNT,9,0.516,,5.3,0.107,,,Meas,4.82,,,MWCNT,Laser flash,3
+2013,Li,CNT,9,0.193,,3,0.174,,,Meas,1.11,,,MWCNT,Custom,4
+2014,Li,CNT,9,0.47,,5,0.26,,,Meas,1.81,,,MWCNT,Hot disc,6
+2014,Zhang,CNT,9,0.341,,8,0.263,,,Meas,1.3,,,MWCNT,Hot disc,6
+2015,Fan,CNT,9,0.33,,3,0.251,,,Meas,1.31,,,MWCNT,Hot wire,5
+2016,Tang,CNT,9,0.283,,15,0.173,,,Meas,1.64,,,MWCNT,Hot wire,5
+2013,Zeng,CNT,9,0.171,,2,0.154,,,Meas,1.11,,,MWCNT,Hot disc,6
+2014,Ye,CNT,9,1.49,,0.5,0.88,,,Meas,1.69,,,MWCNT,Custom,4
+2015,Tao,CNT,9,0.55,,1.5,0.35,,,Meas,1.57,,,SWCNT,Laser flash,3
+,,CNT,9,0.53,,1.5,0.35,,,Meas,1.51,,,MWCNT,Laser flash,3
+2017,Zhang,CNT,9,2.089,,1,1.674,,,Meas,1.25,,,MWCNT,Laser flash,3
+2013,Wang,CNT,9,0.334,,2,0.267,,,Meas,1.25,,,SWCNT,Steady State,2
+,,CNT,9,0.312,,2,0.267,,,Meas,1.17,,,MWCNT,Steady State,2
+2014,Tang,CNT,9,0.463,,3,0.359,,,Meas,1.29,,,MWCNT,Steady State,2
+2013,Kumaresan,CNT,9,0.68,,0.6,0.59,,,Meas,1.15,,,MWCNT,Hot wire,5
+2014,Chandrasekaran,CNT,9,,30,0.1,,,,Meas,,,,MWCNT,Melt Frz,1
+2014,Yu,CNT,9,0.536,,5,0.154,,,Meas,3.48,,,MWCNT,Hot disc,6
+2015,Harish,CNT,9,0.29,,5,0.21,,,Meas,1.38,,,NH,Hot wire,5
+2012,chen,A,10,0.148,,80,0.116,,,Meas,1.3,,,,Hot wire,5
+2014,mehrali,A,10,0.431,,50,0.21,,,Meas,2.1,,,,Laser flash,3
+2015,khadiran,A,10,0.168,,47,0.11,,,Meas,1.5,,,,Hot wire,5
+2015,khadiran,A,10,0.165,,47,0.11,,,Meas,1.5,,,,Hot wire,5
+2015,guan,A,10,0.452,,11,0.21,,,Meas,2.2,,,,Hot disc,6
